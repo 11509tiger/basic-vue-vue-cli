@@ -1,0 +1,1 @@
+.cell{border:1px solid #000;width:100px;height:100px;font-size:80px}.cell,.wrapper{display:flex;justify-content:center;align-items:center}.wrapper{flex-direction:column}.row{display:flex}
